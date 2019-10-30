@@ -1,0 +1,7 @@
+C:\Users\raul__000\source\repos\Abtrab\Abtrab\bin\Debug\Abtrab.exe.config
+C:\Users\raul__000\source\repos\Abtrab\Abtrab\bin\Debug\Abtrab.exe
+C:\Users\raul__000\source\repos\Abtrab\Abtrab\bin\Debug\Abtrab.pdb
+C:\Users\raul__000\source\repos\Abtrab\Abtrab\obj\Debug\Abtrab.csprojAssemblyReference.cache
+C:\Users\raul__000\source\repos\Abtrab\Abtrab\obj\Debug\Abtrab.csproj.CoreCompileInputs.cache
+C:\Users\raul__000\source\repos\Abtrab\Abtrab\obj\Debug\Abtrab.exe
+C:\Users\raul__000\source\repos\Abtrab\Abtrab\obj\Debug\Abtrab.pdb
